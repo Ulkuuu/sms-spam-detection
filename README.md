@@ -87,3 +87,7 @@ Ayrıca 2 normal mesaj yanlışlıkla spam olarak işaretlendi.
 - Notebook: tüm adımları içerir (Google Colab'da çalıştırıldı).
 - `test_tahminleri.csv`: Test mesajları, gerçek etiketler, tahminler ve spam olasılıkları.
 - `requirements.txt`: `pandas`, `scikit-learn`.
+- `spam_siniflandirma.ipynb`: tüm adımları içeren notebook (Google Colab'da çalıştırıldı)
+- `SMSSpamCollection`: veri seti (UCI SMS Spam Collection)
+- `test_tahminleri.csv`: test tahminleri
+- `requirements.txt`: gerekli kütüphaneler
